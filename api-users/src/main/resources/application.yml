@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+dominio:
+  users: https://reqres.in
+
+path:
+  obtenerdatos: /api/users
